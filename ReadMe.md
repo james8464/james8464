@@ -1,5 +1,5 @@
 # 💫 About Me:
-James Durup - A-Level Student @ Epsom College Studying: Computer Science, Economics, Maths, Extended-Project Qualification (A* achieved)
+James Durup - Undergraduate Student at ESSEC Business School & CentraleSupleéc
 
 
 ## 🌐 Socials:
