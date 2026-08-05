@@ -1,5 +1,5 @@
 # 💫 About Me:
-James Durup - Undergraduate Student at ESSEC Business School & CentraleSupélec. Data science, software engineering, and calculator add-in development.
+James Durup - Undergraduate Student at ESSEC Business School & CentraleSupélec. 
 
 
 ## 🌐 Socials:
