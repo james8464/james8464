@@ -11,19 +11,7 @@
   <img src="assets/hero-light.jpg" alt="An abstract loop of brushed aluminum with a translucent glass edge.">
 </picture>
 
-<p align="center"><a href="#current-focus">Current focus</a> · <a href="#other-work">Other work</a> · <a href="#connect">Connect</a></p>
-
----
-
-## Current focus
-
-### [Finn](https://github.com/james8464/hackathon-project)
-
-**Better feedback, one set at a time.**
-
-An iPhone fitness coach in development. The current prototype counts reps and offers one supported observation after a set. Its goal is useful, exercise-specific guidance grounded in what the camera can actually see.
-
-[Explore Finn →](https://github.com/james8464/hackathon-project)
+<p align="center"><a href="#other-work">Other work</a> · <a href="#connect">Connect</a></p>
 
 ---
 
