@@ -17,13 +17,13 @@
 
 ## Current focus
 
-### [Plumb](https://github.com/james8464/hackathon-project)
+### [Finn](https://github.com/james8464/hackathon-project)
 
 **Better feedback, one set at a time.**
 
 An iPhone fitness coach in development. The current prototype counts reps and offers one supported observation after a set. Its goal is useful, exercise-specific guidance grounded in what the camera can actually see.
 
-[Explore Plumb →](https://github.com/james8464/hackathon-project)
+[Explore Finn →](https://github.com/james8464/hackathon-project)
 
 ---
 
